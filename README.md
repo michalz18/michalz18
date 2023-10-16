@@ -47,6 +47,7 @@
 Here are some of the projects I've worked on:
 
 1. **WILD EVENT MANAGER**
+
    - Description: A cutting-edge platform for event management designed to captivate both attendees and organizers. Built for flexibility in diverse event environments, the solution includes sophisticated interactive maps, real-time event updates, and an intuitive dashboard for coordinators.
    - Technologies Used:
   
@@ -55,9 +56,10 @@ Here are some of the projects I've worked on:
       </a><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a  href="https://sass-lang.com/"  target="_blank"  rel="noreferrer">  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"  alt="sass"  width="40"  height="40"/>  </a><a  href="https://www.mysql.com/"  target="_blank"  rel="noreferrer">  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"  alt="mysql"  width="40"  height="40"/>  </a><a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/106514210/249443483-11186d9a-8e05-4639-bce9-409ff13f2b78.png" alt="intellij" width="40" height="40"/></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="vscode" width="40" height="40"/></a>
       <a href="https://maven.apache.org/" target="_blank" rel="noreferrer">  <img src="https://user-images.githubusercontent.com/106514210/249441977-4208f75d-3be8-463a-aac8-40ceb9410fbd.png" alt="maven" width="40" height="40"/>  </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a><a  href="https://postman.com/"  target="_blank"  rel="noreferrer">  <img  src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"  alt="postman"  width="40"  height="40"/>  </a><a  href="https://www.figma.com/"  target="_blank"  rel="noreferrer">  <img  src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"  alt="figma"  width="40"  height="40"/>  </a><a  href="https://www.atlassian.com/software/jira"  target="_blank"  rel="noreferrer">  <img  src="https://user-images.githubusercontent.com/106514210/249443274-6bef2a78-4833-4cf7-af1a-308f97df4940.png"  alt="Jira"  width="40"  height="40"/>  </a><a href="https://slack.com/" target="_blank" rel="noreferrer">  <img src="https://cdn.worldvectorlogo.com/logos/slack-new-logo.svg" alt="slack" width="40" height="40"/>  </a>
 
-    - GitHub Repository: [Link to GitHub Repo](URL)
+    - GitHub Repositories: [Backend](https://github.com/michalz18/wild-event-manager-backend), [Frontend Client](https://github.com/michalz18/wild-event-manager-frontend-client), [Frontend Backoffice](https://github.com/michalz18/wild-event-manager-frontend-backoffice)
 
-3. **QUIZAPP**
+2. **QUIZAPP**
+
    - Description: The platform offers an online setting for both taking quizzes and creating custom content. Designed to foster an engaging and enjoyable educational experience, it serves a community passionate about quiz-based learning. Whether aiming to test one's understanding or share specialized knowledge, the app simplifies the experience for effortless and enjoyable participation.
    - Technologies Used:
    
@@ -84,9 +86,10 @@ Here are some of the projects I've worked on:
       </a>
       <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="vscode" width="40" height="40"/></a>
 
-    - GitHub Repository: [Link to GitHub Repo](URL)
+    - GitHub Repository: [QuizzApp](https://github.com/michalz18/quizz-app)
 
-4. **MARS EXPLORATION SIMULATION**
+3. **MARS EXPLORATION SIMULATION**
+
    - Description: "Mars Exploration Simulation" is an advanced platform designed to evaluate the habitability of Martian landscapes for future human settlements. The software employs algorithms to create a varied map of Mars where virtual rovers explore, gather vital resources, and set up provisional bases. Detailed logs of all activities and discoveries are maintained for subsequent scrutiny, making it an invaluable asset for ongoing space exploration studies.
    - Technologies Used:
    
@@ -94,7 +97,7 @@ Here are some of the projects I've worked on:
       <a href="https://maven.apache.org/" target="_blank" rel="noreferrer">  <img src="https://user-images.githubusercontent.com/106514210/249441977-4208f75d-3be8-463a-aac8-40ceb9410fbd.png" alt="maven" width="40" height="40"/> </a>
       <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer"> </a>
       <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/106514210/249443483-11186d9a-8e05-4639-bce9-409ff13f2b78.png" alt="intellij" width="40" height="40"/></a>
-    - GitHub Repository: [Link to GitHub Repo](URL)
+    - GitHub Repository: [Mars Exploration Simulation](https://github.com/michalz18/mars-exploration-simulation)
 
 
 ---
@@ -106,5 +109,4 @@ Feel free to reach out to me on [LinkedIn](www.linkedin.com/in/michał-zuzak-2a8
 ---
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michalz18&" alt="michalz18" /></p>
 
-👇 Scroll down to check out my pinned repositories.
 
