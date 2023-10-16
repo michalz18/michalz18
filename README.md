@@ -104,7 +104,7 @@ Here are some of the projects I've worked on:
 
 ## 📞 Contact
 
-Feel free to reach out to me on [LinkedIn](www.linkedin.com/in/michał-zuzak-2a8969295).
+Feel free to reach out to me on [LinkedIn](www.linkedin.com/in/michalzuzak).
 
 ---
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michalz18&" alt="michalz18" /></p>
